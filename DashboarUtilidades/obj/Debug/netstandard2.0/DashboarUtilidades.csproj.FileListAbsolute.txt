@@ -1,0 +1,9 @@
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\bin\Debug\netstandard2.0\DashboarUtilidades.deps.json
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\bin\Debug\netstandard2.0\DashboarUtilidades.dll
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\bin\Debug\netstandard2.0\DashboarUtilidades.pdb
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboarUtilidades.csprojAssemblyReference.cache
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboarUtilidades.AssemblyInfoInputs.cache
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboarUtilidades.AssemblyInfo.cs
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboarUtilidades.csproj.CoreCompileInputs.cache
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboarUtilidades.dll
+D:\&ULHI\DI\source\repos\DassshboardMVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboarUtilidades.pdb

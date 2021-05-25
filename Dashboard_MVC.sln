@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardUI", "DassshboardMVC\DashboardUI.csproj", "{AF5C2B4D-887B-4057-ABE7-4FAC6D26E950}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F03B6F79-548C-4FAB-8856-A508AE0E858B} = {F03B6F79-548C-4FAB-8856-A508AE0E858B}
+		{27485DF1-8694-422F-8F35-ACAB85148444} = {27485DF1-8694-422F-8F35-ACAB85148444}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{2B4ADA1E-9F0F-4837-9E56-0E6F4522A0A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{4EC7DFA3-307B-4400-8B44-DA6D7BB9AB85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{00694295-74DB-4F54-9C85-75C223C2EBB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UTILIDADES", "UTILIDADES", "{405B351F-9A5A-46E4-95FE-D0AD2E76CBF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashboardBLL", "DashboardBLL\DashboardBLL.csproj", "{F03B6F79-548C-4FAB-8856-A508AE0E858B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashboardDAL", "DashboardDAL\DashboardDAL.csproj", "{14DF2917-4D5F-441C-9D8C-3AD89769B486}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashboardUtilidades", "DashboarUtilidades\DashboardUtilidades.csproj", "{27485DF1-8694-422F-8F35-ACAB85148444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF5C2B4D-887B-4057-ABE7-4FAC6D26E950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5C2B4D-887B-4057-ABE7-4FAC6D26E950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5C2B4D-887B-4057-ABE7-4FAC6D26E950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5C2B4D-887B-4057-ABE7-4FAC6D26E950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03B6F79-548C-4FAB-8856-A508AE0E858B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03B6F79-548C-4FAB-8856-A508AE0E858B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03B6F79-548C-4FAB-8856-A508AE0E858B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03B6F79-548C-4FAB-8856-A508AE0E858B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DF2917-4D5F-441C-9D8C-3AD89769B486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DF2917-4D5F-441C-9D8C-3AD89769B486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DF2917-4D5F-441C-9D8C-3AD89769B486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DF2917-4D5F-441C-9D8C-3AD89769B486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27485DF1-8694-422F-8F35-ACAB85148444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27485DF1-8694-422F-8F35-ACAB85148444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27485DF1-8694-422F-8F35-ACAB85148444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27485DF1-8694-422F-8F35-ACAB85148444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF5C2B4D-887B-4057-ABE7-4FAC6D26E950} = {00694295-74DB-4F54-9C85-75C223C2EBB6}
+		{F03B6F79-548C-4FAB-8856-A508AE0E858B} = {2B4ADA1E-9F0F-4837-9E56-0E6F4522A0A9}
+		{14DF2917-4D5F-441C-9D8C-3AD89769B486} = {4EC7DFA3-307B-4400-8B44-DA6D7BB9AB85}
+		{27485DF1-8694-422F-8F35-ACAB85148444} = {405B351F-9A5A-46E4-95FE-D0AD2E76CBF3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079F8782-4743-45FE-A8F9-7AC4FE2A6D07}
+	EndGlobalSection
+EndGlobal
